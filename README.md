@@ -1,11 +1,11 @@
-<img alt="MasterHead" src="lose-pull-doodle.gif" width="100%"/>
+<img alt="gigiTurn" src="gif1.gif" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Nangsen</h1>
+<h1 align="center">Oh Hi! 👋, I'm Nangsen</h1>
 <h3 align="center">A student at Jakarta State Polytechnic</h3>
 
-<p align="left"> <img src="https://tenor.com/view/arona-blue-archive-smile-wink-halo-gif-23439065" alt="mukafug" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukafug&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-<img align="right" alt="Bored Oguri Cap" width="400" src="gif2.gif">
+<img align="right" alt="lose-gacha-arona" width="400" src="gif2.gif">
 
 <p align="left">
 🔭 I’m currently working as an <b>2D Illustrator and Animator</b> for the game<br>
