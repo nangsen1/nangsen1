@@ -3,16 +3,16 @@
 <h1 align="center">Hi 👋, I'm Nangsen</h1>
 <h3 align="center">A student at Jakarta State Polytechnic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukafug&label=Profile%20views&color=0e75b6&style=flat" alt="mukafug" /> </p>
+<p align="left"> <img src="https://tenor.com/view/arona-blue-archive-smile-wink-halo-gif-23439065" alt="mukafug" /> </p>
 
 <img align="right" alt="Bored Oguri Cap" width="400" src="gif2.gif">
 
 <p align="left">
-🔭 I’m currently working as an <b>Art Director</b> for the game<br>
+🔭 I’m currently working as an <b>2D Illustrator and Animator</b> for the game<br>
 <a href="https://ladahitamcreation.itch.io/fondness-in-reveries" target="_blank">Fondness in Reveries</a> by LadaHitamCreation.
 <br>
 <br>
-🎨 You can check out my portfolio on <a href="https://www.behance.net/gallery/226611601/Mystic-Market-Tycoon" target="_blank"><b>Behance</b></a>.
+🎨 You can check out my portfolio on <a href="https://www.behance.net/nangsen240danang" target="_blank"><b>Behance</b></a>.
 <br>
 <br>
 🎮 Or see our team's game projects on <a href="https://ladahitamcreation.itch.io/" target="_blank"><b>Itch.io</b></a>.
