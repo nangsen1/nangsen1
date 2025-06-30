@@ -1,4 +1,4 @@
-<img alt="gigiTurn" src="gif1.gif" width="100%"/>
+<!--<img alt="gigiTurn" src="gif1.gif" width="100%"/>-->
 
 <h1 align="center">Oh Hi! 👋, I'm Nangsen</h1>
 <h3 align="center">A student at Jakarta State Polytechnic</h3>
