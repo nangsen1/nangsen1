@@ -3,7 +3,7 @@
 <h1 align="center">Oh Hi! 👋, I'm Nangsen</h1>
 <h3 align="center">A student at Jakarta State Polytechnic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukafug&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nangsen1&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <img align="right" alt="lose-gacha-arona" width="400" src="gif2.gif">
 
